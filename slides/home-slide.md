@@ -7,4 +7,4 @@ auto: true
 loop: true
 ---
 
-* ![A nice pic of mine](my-pics1/arctic-1.jpg)
+* ![A nice pic of mine](home-slide/arctic-1.jpg)
