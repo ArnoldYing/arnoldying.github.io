@@ -3,13 +3,18 @@ layout: default
 title: Home
 ---
 
+<body>
+  <h2><span>Hello</span></h2>
+</body>
+
+
 {% for post in paginator.posts %}
 
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <!-- <h2><span>{{ post.title }}</span></h2> -->
-      <h2><span>test</span></h2>
+      <h2><span>{{ post.title }}</span></h2>
+      <!-- <h2><span>test</span></h2> -->
     </div>
   </a>
 </article>
