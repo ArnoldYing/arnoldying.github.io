@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Projects', folder: 'pages', file: 'facts.html'}
+- {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Posts', folder: 'pages', file: 'resources.html'}
 - {name: 'Games', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Resume', folder: 'pages', file: 'Resume_Arnold_Kaiqi_Ying.pdf'}
