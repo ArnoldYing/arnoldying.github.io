@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Braille-ify"
+title: "My Website!"
 author: "Arnold Ying"
 categories: project
-image: braille1.jpg
+image: website1.jpg
 ---
 
-I made a Braille website translator!
+I made a website!
