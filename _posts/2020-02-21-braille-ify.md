@@ -5,11 +5,11 @@ author: "Arnold Ying"
 categories: project
 image: braille1.jpg
 ---
-# Source code: [Github Repository](https://github.com/ArnoldYing/Braille-ify)
+## Source code: [Github Repository](https://github.com/ArnoldYing/Braille-ify)
 I made a Braille website translator!
 
-## Summary 
-Barille-ify is a device that translates electronic web pages to Braille, aimed towards increasing accessibility for the visually impaired. 
+# What is Braille-ify 
+Braille-ify is a device that translates electronic web pages to Braille, aimed towards increasing accessibility for the visually impaired. 
 
 ## Inspiration
 There are millions of people in the world that are blind, while the internet a widespread amount of information inaccessible to the visually impaired. We created an application that would fix this issue. This application not only translates online webpages into braille (currently displayed in a Python GUI). As well, it is very time-consuming to read in braille when compared to other languages, so we implemented an API that condenses long articles into key words according to their relevance for increased literacy. The program can be connected to a Rasperry Pi board and pistons for practical use.
