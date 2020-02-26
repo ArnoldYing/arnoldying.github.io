@@ -5,7 +5,7 @@ author: "Arnold Ying"
 categories: project
 image: braille1.jpg
 ---
-# Source code: [Github Repository](https://github.com/ArnoldYing/AssignmentScheduler)
+# Source code: [Github Repository](https://github.com/ArnoldYing/Braille-ify)
 I made a Braille website translator!
 
 ## Summary 
