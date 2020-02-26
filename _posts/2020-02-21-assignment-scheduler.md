@@ -6,13 +6,13 @@ categories: project
 image: scheduler1.jpg
 ---
 
-[Source Code](https://github.com/ArnoldYing/AssignmentScheduler)
+# Source code: [Github Repository](https://github.com/ArnoldYing/AssignmentScheduler)
 I made a chrome extension that keeps your assignment schedules!
 
 # AssignmentScheduler
 
 To use this extension, simply clone this repository anywhere,
-then go to [Chrome extensions (chrome://extensions/)](chrome://extensions/)
+then go to Chrome extensions (chrome://extensions/)
  on your Google Chrome browser, and click on "load unpacked" in the upper left, 
 choosing the folder for this repository, and then you can start the extension.
 
@@ -21,7 +21,7 @@ We have come to this hackathon amongst 800 of the smartest minds of our generati
 
 Our team, called **ASAP Tech**, found that one of the key concerns many university students have is the lack of a centralized organizational unit for all their coursework, labs, and examinations. We would be hard-pressed to have to organize the world's largest social problems before we can organize ourselves.
 
-This is why we have developed **Scheduler Saint**, a chrome extension that can send you reminders of your deadlines, manage all your courses, and keep you on track.
+This is why we have developed **Assignment Scheduler**, a chrome extension that can send you reminders of your deadlines, manage all your courses, and keep you on track.
 
 ## What it does
 Using the Google Cloud Firebase API, we upload course info through our extension, which then parses for courses and assignments, and any deadlines and tasks with which they are associated. We then display a dynamic to-do list which allows the client to see what tasks they have left. If the deadline is approaching soon, a reminder text will be sent to the client, preventing their procrastination, so that they never miss a beat.
@@ -42,5 +42,5 @@ We are proud to have created a solution to a problem that many in our cohort fac
 ## What we learned
 We learned a great deal about plugin development and database polling, which we hope will lead us down the path of further improvement as we continue learning continuously.  
 
-## What's next for Scheduler Saint
+## What's next for Assignment Scheduler
 We are looking at adding functionality to show empty rooms for studying based on when courses take place. Additionally, we are looking at using the Natural Language API from Google Cloud to interpret assignment descriptions to create a rubric of deliverables based on their overall salience to the document.
