@@ -9,8 +9,9 @@ image: dancingRobot1.png
 ## Source code: Unavailable
 I made a dancing biped robot!
 
-# AssignmentScheduler
-
+# Dancing Robot?
+In one of my second year computer engineering course at UBC, CPEN 291, I had to 
+make a dancing biped robot as one of my assignment. 
 To use this extension, simply clone this repository anywhere,
 then go to Chrome extensions (chrome://extensions/)
  on your Google Chrome browser, and click on "load unpacked" in the upper left, 
