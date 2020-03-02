@@ -7,5 +7,5 @@ I enjoy building meaningful projects that can be impactful to our day to day lif
 
 ## Contact
 
-# Email: [arnoldying825@gmail.com](arnoldying825@gmail.com)
-# Phone: 1-778-887-0856
+#### Email: [arnoldying825@gmail.com](arnoldying825@gmail.com)
+##### Phone: 1-778-887-0856
