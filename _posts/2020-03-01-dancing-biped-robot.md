@@ -3,7 +3,7 @@ layout: post
 title: "Dancing Biped Robot"
 author: "Arnold Ying"
 categories: project
-image: scheduler1.jpg
+image: dancingRobot1.jpg
 ---
 
 ## Source code: Unavailable
