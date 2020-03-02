@@ -11,11 +11,10 @@ I made a dancing biped robot!
 
 # Dancing Robot?
 In one of my second year computer engineering course at UBC, CPEN 291, I had to 
-make a dancing biped robot as one of my assignment. 
-To use this extension, simply clone this repository anywhere,
-then go to Chrome extensions (chrome://extensions/)
- on your Google Chrome browser, and click on "load unpacked" in the upper left, 
-choosing the folder for this repository, and then you can start the extension.
+make a dancing biped robot as one of my assignment. This was a fun little funky 
+project that helped us gain familiarity working with microcontrollers (ItsyBitsy)
+and interfacing differnt sensors and I/O components (sonar, keypad, RGB lights..) 
+with the microcontroller. The professors provided the
 
 ## Inspiration
 We have come to this hackathon amongst 800 of the smartest minds of our generation to address the world's leading social issues and find tangible solutions for them. However before we can address the problems of the world, we must first solve the problems we face ourselves, so that we may put our best foot forward when it comes to global issues.
