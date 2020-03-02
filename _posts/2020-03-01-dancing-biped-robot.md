@@ -14,14 +14,8 @@ In one of my second year computer engineering course at UBC, CPEN 291, I had to
 make a dancing biped robot as one of my assignment. This was a fun little funky 
 project that helped us gain familiarity working with microcontrollers (ItsyBitsy)
 and interfacing differnt sensors and I/O components (sonar, keypad, RGB lights..) 
-with the microcontroller. The professors provided the
-
-## Inspiration
-We have come to this hackathon amongst 800 of the smartest minds of our generation to address the world's leading social issues and find tangible solutions for them. However before we can address the problems of the world, we must first solve the problems we face ourselves, so that we may put our best foot forward when it comes to global issues.
-
-Our team, called **ASAP Tech**, found that one of the key concerns many university students have is the lack of a centralized organizational unit for all their coursework, labs, and examinations. We would be hard-pressed to have to organize the world's largest social problems before we can organize ourselves.
-
-This is why we have developed **Assignment Scheduler**, a chrome extension that can send you reminders of your deadlines, manage all your courses, and keep you on track.
+with the microcontroller. The professors provided a 3D printed robot chassis for 
+us to house all the components in. 
 
 ## What it does
 Using the Google Cloud Firebase API, we upload course info through our extension, which then parses for courses and assignments, and any deadlines and tasks with which they are associated. We then display a dynamic to-do list which allows the client to see what tasks they have left. If the deadline is approaching soon, a reminder text will be sent to the client, preventing their procrastination, so that they never miss a beat.
