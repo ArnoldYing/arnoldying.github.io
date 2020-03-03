@@ -5,7 +5,7 @@ title: About
 
 ![alt text](https://arnoldying.github.io/assets/img/about1.jpg "picture of me!")
 
-I am currently a second year Computer Engineering Student at the University of British Columbia. I enjoy building interesting and meaningful projects that can be impactful to our day to day life. In this rapidly growing world I hope to contribute what I can to the forefront of technological advancement. I like [food](https://en.wikipedia.org/wiki/Bubble_tea) and [food](https://en.wikipedia.org/wiki/Ramen) (I mean who doesn't?), video games (of course), and coding (who would've thought?). 
+I am currently a second year Computer Engineering Student at the University of British Columbia. I enjoy building interesting and meaningful projects that can be impactful to our day to day life. In this rapidly growing world I hope to contribute what I can to the forefront of technological advancement. I like [food](https://en.wikipedia.org/wiki/Ramen) (I mean who doesn't?), video games (of course), and coding (who would've thought?). 
 
 ## Video Game
 I play a lot of video game during my spare time. I mainly play **_Overwatch_** and I currently am a member of the UBC Premier Overwatch team. I also enjoy other
