@@ -14,7 +14,7 @@ image: dancingRobot1.png
 In one of my second year computer engineering course at UBC, CPEN 291, I had to 
 make a dancing biped robot as one of my assignment. This was a fun little funky 
 project that helped us gain familiarity working with microcontrollers (ItsyBitsy)
-and interfacing differnt sensors and I/O components (sonar, keypad, RGB lights..) 
+and interfacing differnt sensors, motors, and I/O components (servo motors, sonar, keypad, RGB lights..) 
 with the microcontroller. It also help me gain a better understanding and familiarity
 with Python. 
 
@@ -48,6 +48,11 @@ The robot has a 6 key keypad that takes in user input, it requires a password to
 - **Sonar**  
 The robot has an ultrasonic sensor that detects walls and motion and stop any dance move if it detects an object too close
 
+- **Lights**
+The robot has an onboard RGB light that flashes to indicate the status of the robot and any I/O feedback. Whenever the user pressess
+a key on the keypad the RGB light flashes white. Whenever the robot is stopped due to it detecting an object too close, the RBG light
+will flash red 3 times.  
+
 ## How we built it
 The professors provided a 3D printed robot chassis for us to house all the components in. We used 2 breadboards to house the 
 wires for all the components of the robot. A detailed circuit schematic is below created using the Fritzing software.  
@@ -56,7 +61,8 @@ wires for all the components of the robot. A detailed circuit schematic is below
 ## Challenges we ran into
 There were lots of wiring issues for interfacing with the ItsyBity, the microcontroller
 that we use. Since we want to include as many feature as we can there weren't enough ports
-on the ItsyBitsy for us to use.  
+on the ItsyBitsy for us to use. We had to implement and wire a 2:3 decoder to reduce the
+number of ports used by the keypad from 7 to 4. 
 
 ## Accomplishments that we're proud of
 
