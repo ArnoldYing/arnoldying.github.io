@@ -46,15 +46,17 @@ The robot has a small 1-inch LCD display that displays a menu that makes accessi
 The robot has a 6 key keypad that takes in user input, it requires a password to start! (hint: 1234)
 
 - **Sonar**  
-The robot has an ultrasonic sensor that detects walls and motion
+The robot has an ultrasonic sensor that detects walls and motion and stop any dance move if it detects an object too close
 
 ## How we built it
-The professors provided a 3D printed robot chassis for us to house all the components in. 
+The professors provided a 3D printed robot chassis for us to house all the components in. We used 2 breadboards to house the 
+wires for all the components of the robot. A detailed circuit schematic is below created using the Fritzing software. 
 
 ## Challenges we ran into
 There were lots of wiring issues for interfacing with the ItsyBity, the microcontroller
 that we use. Since we want to include as many feature as we can there weren't enough ports
-on the ItsyBitsy for us to use. 
+on the ItsyBitsy for us to use.  
+![alt text](https://arnoldying.github.io/assets/img/fritzing1.png "circuit schematics")
 
 ## Accomplishments that we're proud of
 
