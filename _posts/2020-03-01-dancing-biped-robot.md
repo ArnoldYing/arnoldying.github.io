@@ -8,7 +8,7 @@ image: dancingRobot1.png
 
 ## Source code: Unavailable
 ##### I made a dancing biped robot!
-##### This was made at UBC with my project course group: Stella, Amir, Rain, Parsa, Sanjeev and Manek!
+##### This was made at UBC with my project course group: [Stella](https://stellawang.com), Amir, Rain, Parsa, Sanjeev and Manek!
 
 # Dancing Robot?
 In one of my second year computer engineering course at UBC, CPEN 291, I had to 
@@ -36,12 +36,17 @@ The robot can also play certain pre-programmed songs (even during dances) using 
     2. Mario: Super Mario Bros Theme Song
     3. Stranger Things: Stranger Things Theme Song
     4. All Star: All-Star by Smash Mouth Chorus
-    5. Tetris: Class Tetris Game Theme Song
+    5. Tetris: Classic Tetris Game Theme Song
     6. Fortnite: Fortnite Default Dance Song
 
 - **Display**  
-The robot has a small 1-inch LCD display that displays a menu that makes accessing the dances and music a lot easier:
+The robot has a small 1-inch LCD display that displays a menu that makes accessing the dances and music a lot easier
 
+- **Keypad**  
+The robot has a 6 key keypad that takes in user input, it requires a password to start! (hint: 1234)
+
+- **Sonar**  
+The robot has an ultrasonic sensor that detects walls and motion
 
 ## How we built it
 The professors provided a 3D printed robot chassis for us to house all the components in. 
