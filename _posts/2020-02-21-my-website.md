@@ -7,4 +7,5 @@ image: website1.jpg
 ---
 
 ## Source code: [Github](https://github.com/ArnoldYing/arnoldying.github.io)
-I made a website!
+**I made a website!**  
+**This was made as a personal project to showcase all the different and unique projects I've done throughout the year**  
