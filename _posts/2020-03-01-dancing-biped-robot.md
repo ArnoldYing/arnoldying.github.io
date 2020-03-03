@@ -20,6 +20,7 @@ with Python.
 
 ## What it does
 There are many functionalities of the robot, all of which are listed and explained below:
+
 **Dance**
 The robot can perform 6 different dance moves:
 1. Waddle: The robot flaps its feet up and down similar to how a penguin waddles
@@ -28,6 +29,16 @@ The robot can perform 6 different dance moves:
 4. High-Knees: The robot brings its legs up and down one by one, similar to a high knees exercise.
 5. Excite: This move performs several kicks back to back, switching between the right and left legs.
 6. Shuffle: The robot performs a simple shuffle by turning its legs left and right several times.
+
+**Music**
+The robot can also play certain pre-programmed songs using the peizo-buzzer that we wired up:   
+1. The Anthem
+2. Mario: Super Mario Bros Theme Song
+3. Stranger Things: Stranger Things Theme Song
+4. All Star: All-Star by Smash Mouth Chorus
+5. Tetris: Class Tetris Game Theme Song
+6. Fortnite: Fortnite Default Dance Song
+
 
 
 ## How we built it
