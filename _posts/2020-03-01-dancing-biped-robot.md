@@ -31,7 +31,7 @@ The robot can perform 6 different dance moves:
     6. Shuffle: The robot performs a simple shuffle by turning its legs left and right several times.
 
 - **Music**  
-The robot can also play certain pre-programmed songs using the peizo-buzzer that we wired up:   
+The robot can also play certain pre-programmed songs (even during dances) using the peizo-buzzer that we wired up:   
     1. The Anthem
     2. Mario: Super Mario Bros Theme Song
     3. Stranger Things: Stranger Things Theme Song
@@ -39,6 +39,8 @@ The robot can also play certain pre-programmed songs using the peizo-buzzer that
     5. Tetris: Class Tetris Game Theme Song
     6. Fortnite: Fortnite Default Dance Song
 
+- **Display**  
+The robot has a small 1-inch LCD display that displays a menu that makes accessing the dances and music a lot easier:
 
 
 ## How we built it
