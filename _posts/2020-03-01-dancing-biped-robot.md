@@ -62,11 +62,11 @@ wires for all the components of the robot. A detailed circuit schematic is below
 There were lots of wiring issues for interfacing with the ItsyBity, the microcontroller
 that we use. Since we want to include as many feature as we can there weren't enough ports
 on the ItsyBitsy for us to use. We had to implement and wire a 2:3 decoder to reduce the
-number of ports used by the keypad from 7 to 4. 
-
-## Accomplishments that we're proud of
-
+number of ports used by the keypad from 7 to 4. There are many of these types of issues, we
+also had to fit all the wiring into a pretty compact casing, so that required lots of planning
+and rewiring of the robot. 
 
 ## What we learned
-
+I personally gained a better understanding and familiarity with Python and particularily the CircuitPython and Adafruit libraries
+in Python that helps us to better interface the I/O devices. 
 
