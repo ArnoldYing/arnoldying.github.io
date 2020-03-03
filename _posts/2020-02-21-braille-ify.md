@@ -7,7 +7,9 @@ image: braille1.jpg
 ---
 
 ## Source code: [Github](https://github.com/ArnoldYing/Braille-ify)
-I made a Braille website translator!
+##### I made a Braille website translator!
+##### This was made at Local Hack Day Build Day in Nov. 2019 with my friends [Stella](https://stellawang.com), Rain, Jennifer and David
+
 
 # What is Braille-ify 
 Braille-ify is a device that translates electronic web pages to Braille, aimed towards increasing accessibility for the visually impaired. 

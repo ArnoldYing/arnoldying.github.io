@@ -8,7 +8,7 @@ image: scheduler1.jpg
 
 ## Source code: [Github](https://github.com/ArnoldYing/AssignmentScheduler)
 ##### I made a chrome extension that keeps your assignment schedules! 
-##### This was made at nwHacks 2020 along with my friends Stella, Amir and Parsa
+##### This was made at nwHacks 2020 along with my friends [Stella](https://stellawang.com), Amir and Parsa
 
 # AssignmentScheduler
 
