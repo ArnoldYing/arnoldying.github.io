@@ -50,13 +50,13 @@ The robot has an ultrasonic sensor that detects walls and motion and stop any da
 
 ## How we built it
 The professors provided a 3D printed robot chassis for us to house all the components in. We used 2 breadboards to house the 
-wires for all the components of the robot. A detailed circuit schematic is below created using the Fritzing software. 
+wires for all the components of the robot. A detailed circuit schematic is below created using the Fritzing software.  
+![alt text](https://arnoldying.github.io/assets/img/fritzing1.png "circuit schematics")
 
 ## Challenges we ran into
 There were lots of wiring issues for interfacing with the ItsyBity, the microcontroller
 that we use. Since we want to include as many feature as we can there weren't enough ports
 on the ItsyBitsy for us to use.  
-![alt text](https://arnoldying.github.io/assets/img/fritzing1.png "circuit schematics")
 
 ## Accomplishments that we're proud of
 
