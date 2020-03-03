@@ -19,6 +19,15 @@ with the microcontroller. It also help me gain a better understanding and famili
 with Python. 
 
 ## What it does
+There are many functionalities of the robot, all of which are listed and explained below:
+**Dance**
+The robot can perform 6 different dance moves:
+1. Waddle: The robot flaps its feet up and down similar to how a penguin waddles
+2. Pop-Step: The robot rotates its feet inwards and outwards in a pop and step sort of fashion, hence the name.
+3. Ballerina: The robot rotates its legs and performs a tip toe sort of action. The robot then proceeds to rotate and kick at the end.
+4. High-Knees: The robot brings its legs up and down one by one, similar to a high knees exercise.
+5. Excite: This move performs several kicks back to back, switching between the right and left legs.
+6. Shuffle: The robot performs a simple shuffle by turning its legs left and right several times.
 
 
 ## How we built it
