@@ -7,8 +7,8 @@ image: dancingRobot1.png
 ---
 
 ## Source code: Unavailable
-##### I made a dancing biped robot!
-##### This was made at UBC with my project course group: [Stella](https://stellawang.com), Amir, Rain, Parsa, Sanjeev and Manek!
+**I made a dancing biped robot!**  
+**This was made at UBC with my project course group: [Stella](https://stellawang.com), Amir, Rain, Parsa, Sanjeev and Manek!**  
 
 # Dancing Robot?
 In one of my second year computer engineering course at UBC, CPEN 291, I had to 
